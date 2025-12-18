@@ -85,8 +85,6 @@ This project demonstrates the importance of exploratory data analysis in underst
 ---
 
 ## 🚀 Future Work
-- Data preprocessing and feature engineering
-- Handling missing values and outliers
 - Building machine learning models for loan approval prediction
 - Model evaluation and performance comparison
 
